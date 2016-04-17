@@ -1,0 +1,7 @@
+{
+  "name": "Api-blueprint-rfcs",
+  "tagline": "The API Blueprint RFC process",
+  "body": "# API Blueprint Request for Comments\r\n\r\nMany changes, including bug fixes and documentation improvements can be\r\nimplemented and reviewed via the normal GitHub pull request workflow.\r\n\r\nSome changes though are \"substantial\", and we ask that these be put through a\r\nbit of a design process and produce a consensus among the API Blueprint team.\r\n\r\nThe \"RFC\" (request for comments) process is intended to provide a consistent\r\nand controlled path for new features to enter the language.\r\n\r\n## When you need to follow this process\r\n\r\nYou need to follow this process if you intend to make \"substantial\" changes to\r\nthe API Blueprint language or specification.\r\n\r\n## What the process is\r\n\r\nIn short, to get a major feature added to the API Blueprint language and/or\r\nparser, one must first get an RFC relevant to that feature merged and accepted\r\ninto the RFC repository as a markdown file. At that point the RFC is 'active'\r\nand may be implemented with the goal of eventual inclusion into API Blueprint.\r\n\r\nPlease see [RFC 1](rfcs/0001-rfc-process.md) for more details.\r\n\r\n## Related\r\n\r\nThe RFC process is inspired by, and very similar to\r\n[PEP](https://www.python.org/dev/peps/), [DEP](https://github.com/django/deps)\r\nand the [Rust RFCs](https://github.com/rust-lang/rfcs).\r\n\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
